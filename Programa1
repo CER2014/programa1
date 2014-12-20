@@ -3,7 +3,7 @@ groovy> if (hora_actual < 5) {
 groovy>   printnln "Buenos dias"
 groovy>     } 
 groovy>     else { if (hora_actual < 12) { 
-groovy>                println "Buenas Dias" 
+groovy>                println "Buenas Noches" 
 groovy>                } 
 groovy>                else { if (hora_actual < 19) {  
 groovy>                      println "Buenas Tardes" 
